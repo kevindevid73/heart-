@@ -110,7 +110,7 @@ def txt():
 
     pen.write("I love you", font=( 
 
-      "Verdana", 5, "bold")) 
+      "Verdana",5, "bold")) 
 
   
 
